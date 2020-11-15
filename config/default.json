@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://ShrutiJha:Shivam@25@shrutijha.vludw.mongodb.net/LineUp?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+    
+   
+}
